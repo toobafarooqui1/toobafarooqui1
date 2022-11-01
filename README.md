@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @toobafarooqui1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... email: toobafarooqui09@gmail.com
+Hey there, i'm Tooba Farooqui!👋🏻
 
-<!---
-toobafarooqui1/toobafarooqui1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 I am a Front End Developer.
+- 👀 I love programming!
+- 🌱 I’m currently learning javascript ...
+- 📫 How to reach me: toobafarooqui09@gmail.com ; 
+
