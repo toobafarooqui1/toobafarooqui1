@@ -7,12 +7,11 @@ Hey there, i'm Tooba Farooqui!👋🏻
 
   🖥 - I'M CURRENTLY WORKING WITH ...
   |Frontend|   
-      HTML3 - CSS3 - JAVASCRIPT - BOOTSRTAP
-      
+      HTML5 - CSS3 - JAVASCRIPT - BOOTSRTAP - REACTJS      
       
       
   🌱 - I'M CURRENTLY LEARNING ...
-   (JAVASCRIPT)
+   (ReactJs)
    
    
    
