@@ -6,5 +6,5 @@ Hey there, i'm Tooba Farooqui!👋🏻
 
 
   🖥 - I'M CURRENTLY WORKING WITH ...   
-      HTML5 - CSS3 - JAVASCRIPT - BOOTSRTAP - REACTJS - PHP - WORDPRESS      
+      HTML5 - CSS3 - JAVASCRIPT - BOOTSRTAP - REACTJS - PHP - NODEJS - WORDPRESS      
       
